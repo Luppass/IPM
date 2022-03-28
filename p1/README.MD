@@ -1,1 +1,0 @@
-PRACTICA 1 IPM
