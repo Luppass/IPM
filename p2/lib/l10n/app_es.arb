@@ -1,0 +1,21 @@
+{
+    "titulo" : "Control Covid",
+    "fecha" : "Fecha",
+    "telefono" : "Teléfono",
+    "formatIncorrect" : "EL formato no es correcto!",
+    "tryAgain" : "Intentar otra vez",
+    "idEdificio" : "Por favor, introduce el ID del edificio",
+    "notFoundEdificio" : "El edificio introducido no existe en la base de datos",
+    "done" : "HECHO!",
+    "theUser" : "El usuario: ",
+    "registradoConExito" : "se ha registrado correctamente",
+    "volverPrincipal" : "Volver al menú principal",
+    "volverMenuEdif" : "Volver al menú del edificio",
+    "qrFail" : "El escaneo de QR ha fallado",
+    "volverMenu" : "Volver al menú",
+    "internetDbFail" : "La conexión a internet no funciona o la base de datos no responde",
+    "buscar" : "Buscar",
+    "qrNotAsignado" : "Este código QR no pertenece a ninguna persona registrada",
+    "registrarPersona" : "Registrar persona",
+    "listaPersonas" : "Lista de personas"
+}

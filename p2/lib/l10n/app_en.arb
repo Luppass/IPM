@@ -1,0 +1,24 @@
+
+{
+    "titulo" : "Covid Manager",
+    "fecha" : "Date",
+    "telefono" : "Phone",
+    "formatIncorrect" : "The format is not correct !",
+    "tryAgain" : "Try again",
+    "idEdificio" : "Please, introduce the ID of the building",
+    "notFoundEdificio" : "The introduced building does not exist on the database",
+    "done" : "DONE!",
+    "theUser" : "The user: ",
+    "registradoConExito" : "has succesfully registered",
+    "volverPrincipal" : "Return to main menu",
+    "volverMenuEdif" : "Return to building menu",
+    "qrFail" : "QR scan failed",
+    "volverMenu" : "Return to menu",
+    "internetDbFail" : "Internet is not working or database is not responding",
+    "buscar" : "Search",
+    "qrNotAsignado" : "This QR does not belong to any person registered",
+    "registrarPersona" : "Register person",
+    "listaPersonas" : "People list"
+
+
+}
